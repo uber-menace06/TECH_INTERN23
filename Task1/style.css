@@ -1,0 +1,27 @@
+.navigation{
+ background-color: black;
+ color: #000;
+ position: sticky
+}
+.btn-lg {
+    --bs-btn-padding-y: 0.5rem;
+    --bs-btn-padding-x: 1rem;
+    --bs-btn-font-size: 1rem;
+    --bs-btn-border-radius: var(--bs-border-radius-lg);
+}
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color:black;
+    font-weight: bold;
+}
+.btn-saffron {
+    background-image: linear-gradient(to bottom right, #FF9933, #FFFFFF, #138808);
+    color: black;
+    border-color: black;
+    border-radius: 99px;
+  }
+.sidebar li a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.859);
+}
